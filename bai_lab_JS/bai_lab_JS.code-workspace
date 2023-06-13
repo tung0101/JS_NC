@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		},
+		{
+			"path": "../../WEB501 - Lập trình ECMAScript/bailab_ES6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bailab_ES6"
+	}
+}
